@@ -21,16 +21,16 @@ This project focuses on clear logic, user interaction, and correct handling of e
 
 
 ## Example
-Input:  \n
-HELLO WORLD     \n
-Shift: 3    \n
+Input:  <br>
+HELLO WORLD     <br>
+Shift: 3    <br>
 
-Output:   \n
+Output:   <br>
 KHOOR ZRUOG
 
 
 ## Tech Stack
-Language: Python   \n
+Language: Python   <br>
 Concepts: Lists, indexing, loops, functions, string manipulation
 
 
